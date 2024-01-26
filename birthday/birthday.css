@@ -1,0 +1,57 @@
+body{
+    background-image: url(embossed-black-background-tribal-cover-600nw-2371960343.webp);
+}
+#wrapper{
+    padding: 0;
+    width: 1000px;
+    border: 3px solid black;
+    background-color: #F2E9E9;
+    margin: 1em auto;
+    display: grid;
+  }
+  header{
+    grid-column: span 12fr;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    border-bottom: 2px solid black;
+    background-color: grey;
+    background-image: linear-gradient(to left, #525355, #6b6b6d, #848485, #9e9e9f, #b9b9b9);
+    font-size: larger;
+  }
+  Main{
+    border: 1px solid black;
+    border-bottom: 2px solid black;
+    padding-left: 15px;
+    grid-column: span 12fr;
+  }
+  iframe{
+    float: right;
+    margin: 25px;
+    width:500px;
+    margin-left: 20px;
+  }
+
+  footer{
+    padding-left: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    background-color: grey;
+    background-image: linear-gradient(to left, #525355, #6b6b6d, #848485, #9e9e9f, #b9b9b9);
+    grid-column: span 12fr;
+  }
+h1{
+  margin-left: 25px;
+  padding: 15px;
+  font-style: normal;
+  font-weight: normal;
+}  
+
+h2{
+  border-bottom: 2px solid black;
+  margin-right: 15px;
+}
+
+.font{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+}

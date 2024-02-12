@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-0bfc3e90-19e9-4ec0-aa5b-d778cd59ab7d" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 596.3 212.5">
+  <defs>
+    <style>
+      .uuid-a8e078cc-f52c-4b12-97f2-b3c974b9e2af {
+        fill: url(#uuid-083b97aa-66d6-46e9-af6b-9b7eac9be71c);
+        stroke: #c23b8e;
+      }
+
+      .uuid-a8e078cc-f52c-4b12-97f2-b3c974b9e2af, .uuid-6afc5914-3784-4b56-9349-4a5945e13647 {
+        stroke-miterlimit: 10;
+      }
+
+      .uuid-b68ba033-0049-4a91-ace7-f322c6685482 {
+        letter-spacing: 0em;
+      }
+
+      .uuid-8d8660c8-f276-4ac6-a9ec-94065500b6e6 {
+        letter-spacing: 0em;
+      }
+
+      .uuid-79da19ac-f6ba-4215-b74b-3098359fbcad {
+        letter-spacing: 0em;
+      }
+
+      .uuid-6afc5914-3784-4b56-9349-4a5945e13647 {
+        fill: #623f99;
+        font-family: Modak, Modak;
+        font-size: 147.6px;
+        stroke: #d8489a;
+      }
+
+      .uuid-378beed7-ec91-414f-860d-78ca0af552ca {
+        letter-spacing: 0em;
+      }
+
+      .uuid-f40d51b2-985d-4cb9-8bc2-95e4f5803d0d {
+        letter-spacing: 0em;
+      }
+    </style>
+    <linearGradient id="uuid-083b97aa-66d6-46e9-af6b-9b7eac9be71c" x1=".5" y1="106.2" x2="595.8" y2="106.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7f3f98" stop-opacity=".6"/>
+      <stop offset=".2" stop-color="#803c97" stop-opacity=".7"/>
+      <stop offset=".4" stop-color="#843594" stop-opacity=".8"/>
+      <stop offset=".6" stop-color="#8b2c91" stop-opacity="1"/>
+      <stop offset=".9" stop-color="#8b2c91" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect class="uuid-a8e078cc-f52c-4b12-97f2-b3c974b9e2af" x=".5" width="595.3" height="212.5"/>
+  <text class="uuid-6afc5914-3784-4b56-9349-4a5945e13647" transform="translate(129.8 153.5) scale(.5 1)"><tspan class="uuid-79da19ac-f6ba-4215-b74b-3098359fbcad" x="0" y="0">C</tspan><tspan x="92.1" y="0">h</tspan><tspan class="uuid-b68ba033-0049-4a91-ace7-f322c6685482" x="174.7" y="0">o</tspan><tspan class="uuid-378beed7-ec91-414f-860d-78ca0af552ca" x="257.8" y="0">w</tspan><tspan x="373.4" y="0">d</tspan><tspan class="uuid-f40d51b2-985d-4cb9-8bc2-95e4f5803d0d" x="456.1" y="0">e</tspan><tspan class="uuid-8d8660c8-f276-4ac6-a9ec-94065500b6e6" x="538.4" y="0">r</tspan></text>
+</svg>

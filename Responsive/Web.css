@@ -1,0 +1,85 @@
+body{
+    background-image: url(embossed-black-background-tribal-cover-600nw-2371960343\ copy.webp);
+	margin: 0;
+	padding: 1em;
+}
+Header{
+    border: 3px solid maroon;
+    padding: 10px;
+    margin-top: 5px;
+    background-color: lightslategray;
+
+}
+main{
+    text-align: center;
+    font-size: larger;
+    border: 3px solid maroon;
+    padding: 20px;
+    margin-top: 10px;
+    background-color: lightslategray;
+
+}
+#Stop{
+    display: block;
+    width: 300px;
+}
+#No{
+    display: block;
+    width: 30px;
+}
+
+@media all and (min-width: 25rem){
+	body{background-image: url(embossed-black-background-tribal-cover-600nw-2371960343\ copy.webp);}
+	h1 { color: white; }
+	p{color:white;}
+	#Stop{
+		width: 300px;
+		display:none;
+	  }
+	  #No{
+        width: 200px;
+		display:none;
+		}
+	#Black{
+		margin: auto;
+		width: 300px;
+		display:block;
+	}
+  }
+
+  @media all and (min-width: 50rem){
+	body{background-image:url(embossed-black-background-tribal-cover-600nw-2371960343\ copy.webp);}
+	h1{color: white};
+	p{color:White;}
+	#Stop {
+		margin: auto;
+		width: 300px;
+		display:block;
+	  }
+	  #No{
+		width: 300px;
+		display:none;
+	  }
+	  #Black{
+		width: 300px;
+		display:none;
+	  }
+}
+@media all and (min-width: 100rem){
+	body{background-image:url(embossed-black-background-tribal-cover-600nw-2371960343\ copy.webp)}
+	h1 { color: white; padding-bottom:.1rem; }
+	p{color: white;}
+	#Stop {
+		width: 300px;
+		display:none;
+	  }
+	  #No{
+		width: 300px;
+		margin: auto;
+		display:block;
+	  }
+	  #Black{
+		width: 300px;
+		display:none;
+	  }
+  }        

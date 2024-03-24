@@ -72,6 +72,9 @@ footer{
     grid-column: span 12;
     color: white;
     padding-left: 20px;
+    margin-top: 150px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
     border-top: 3px solid black;
     font-size: large;
     background-color: purple;

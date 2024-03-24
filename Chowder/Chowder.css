@@ -91,7 +91,7 @@ padding-top: 20px;
 }
 @keyframes cfade {
   0%   { transform: translate(-500px, -400px);}
-  100% { transform: translate(0px, 5px);}
+  100% { transform: translate(300px, 50px);}
 }
 #Chowder {
   width: 500px;
